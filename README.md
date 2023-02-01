@@ -6,4 +6,4 @@
 
 - `cd RANDOM `
 
-- `python Crack.py`
+- `python FOOTWARE.py`
