@@ -6,4 +6,4 @@
 
 - `cd RANDOM `
 
-- `python FOOTWARE.py`
+- `python RANDOM.py`
